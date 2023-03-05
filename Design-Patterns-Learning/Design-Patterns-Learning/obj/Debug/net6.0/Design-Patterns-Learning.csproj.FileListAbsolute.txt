@@ -1,0 +1,15 @@
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\bin\Debug\net6.0\Design-Patterns-Learning.exe
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\bin\Debug\net6.0\Design-Patterns-Learning.deps.json
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\bin\Debug\net6.0\Design-Patterns-Learning.runtimeconfig.json
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\bin\Debug\net6.0\Design-Patterns-Learning.dll
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\bin\Debug\net6.0\Design-Patterns-Learning.pdb
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.csproj.AssemblyReference.cache
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.AssemblyInfo.cs
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.dll
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\refint\Design-Patterns-Learning.dll
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.pdb
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\Design-Patterns-Learning.genruntimeconfig.cache
+C:\Users\thoma\Documents\GitHub\Design-Patterns-Learning\Design-Patterns-Learning\Design-Patterns-Learning\obj\Debug\net6.0\ref\Design-Patterns-Learning.dll

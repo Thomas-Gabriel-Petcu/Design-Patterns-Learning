@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design-Patterns-Learning", "Design-Patterns-Learning\Design-Patterns-Learning.csproj", "{46630092-1A0A-42AB-A574-3DE9CA140DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46630092-1A0A-42AB-A574-3DE9CA140DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46630092-1A0A-42AB-A574-3DE9CA140DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46630092-1A0A-42AB-A574-3DE9CA140DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46630092-1A0A-42AB-A574-3DE9CA140DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40820A7E-1A61-44A8-B05E-E3BAE8B0EF7B}
+	EndGlobalSection
+EndGlobal
