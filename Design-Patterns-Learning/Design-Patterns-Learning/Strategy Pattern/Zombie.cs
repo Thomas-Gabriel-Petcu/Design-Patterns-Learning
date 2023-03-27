@@ -13,9 +13,6 @@ namespace Design_Patterns_Learning.Strategy_Pattern
         {
 
         }
-        public void SetMeleeAttackBehavior(IMeleeAttackBehavior a)
-        {
-            meleeAttackBehavior = a;
-        }
+        
     }
 }

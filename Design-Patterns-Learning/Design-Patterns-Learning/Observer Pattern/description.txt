@@ -1,0 +1,4 @@
+﻿Observer pattern example:
+Boss detects player and wakes up
+notifies all minions that it has woken up
+minions wake up

@@ -1,0 +1,3 @@
+﻿Strategy pattern example:
+Zombie changes its attack behavior at runtime
+from bite attack to claw attack
